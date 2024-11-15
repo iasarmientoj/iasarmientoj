@@ -52,6 +52,3 @@ Aquí algunos repositorios interesantes que puedes explorar en mi perfil:
 
 [![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=iasarmientoj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
----
-
-¡Explora mis proyectos y acompáñame en este viaje de innovación y desarrollo! 🚀 
