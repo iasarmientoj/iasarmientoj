@@ -6,7 +6,7 @@ Soy un **Ingeniero Mecatrónico** apasionado por el desarrollo de videojuegos y 
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=iasarmientoj&color=brightgreen)
 
-# Sobre mí 🕹️  
+### Sobre mí 🕹️  
 - **Desarrollador de videojuegos en Unity:** Estoy constantemente explorando nuevas mecánicas, interacción y sistemas avanzados para videojuegos.  
 - **Apasionado por la realidad virtual y aumentada:** He desarrollado aplicaciones inmersivas publicadas en PlayStore y AppStore.  
 - **Docente y mentor:** Disfruto compartir conocimiento sobre programación y desarrollo de videojuegos.  
