@@ -27,7 +27,7 @@ Aquí algunos repositorios interesantes que puedes explorar en mi perfil:
 
 ---
 
-## Mi pila tecnológica 🚀  
+## Mis tecnologias 🚀  
 
 <table>
 <tr>
