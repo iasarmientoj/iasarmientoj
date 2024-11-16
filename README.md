@@ -44,9 +44,9 @@ Aquí algunos repositorios interesantes que puedes explorar en mi perfil:
 </tr>
 <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/blender/blender-ar21.svg" width="100"></td>
-    <td align="center"><img src="assets/photoshop-original.svg" width="70"></td>
+    <td align="center"><img src="assets/photoshop-original.svg" width="50"></td>
     <td align="center"><img src="assets/sketchup-logo-2020.svg" width="100"></td>
-    <td align="center"><img src="assets/adobe-premiere.svg" width="70"></td>
+    <td align="center"><img src="assets/adobe-premiere.svg" width="50"></td>
 </tr>
 </table>
 
