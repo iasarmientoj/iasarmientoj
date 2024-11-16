@@ -32,17 +32,21 @@ Aquí algunos repositorios interesantes que puedes explorar en mi perfil:
 <table>
 <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="100"></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100"></td>
+</tr>
+<tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg" width="100"></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="100"></td>
 </tr>
 <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/blender/blender-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/processing/processing-ar21.svg" width="100"></td>
+    <td align="center"><img src="assets/photoshop-original.svg" width="100"></td>
+    <td align="center"><img src="assets/sketchup-logo-2020.svg" width="100"></td>
+    <td align="center"><img src="assets/adobe-premiere.svg" width="100"></td>
 </tr>
 </table>
 
