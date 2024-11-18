@@ -1,8 +1,8 @@
 # ¡Hola, soy Iván! :colombia:
 
-<img align='right' src="assets/forest.gif" width="220">
+<img align='right' src="assets/forest.gif" width="230">
 
-[https://iasarmientoj.github.io/](https://iasarmientoj.github.io/)
+[iasarmientoj.github.io](https://iasarmientoj.github.io/)
 
 Soy un **Ingeniero Mecatrónico** apasionado por el desarrollo de videojuegos y experiencias inmersivas en Unity. Con más de seis años de experiencia, me dedico a crear soluciones innovadoras que combinan creatividad y tecnología, desde videojuegos educativos hasta plataformas de realidad virtual.
 
