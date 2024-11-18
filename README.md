@@ -1,6 +1,6 @@
 # ¡Hola, soy Iván! :colombia:
 
-<img align='right' src="assets/forest.gif" width="230">
+<img align='right' src="assets/forest.gif" width="240">
 
 [iasarmientoj.github.io](https://iasarmientoj.github.io/)
 
