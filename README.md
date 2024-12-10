@@ -23,9 +23,9 @@ Aquí algunos repositorios interesantes que puedes explorar en mi perfil:
 | Proyecto | Descripción | Enlace |
 | --- | --- | --- |
 | **Character-Movement-Explorations** | Exploraciones sobre mecánicas de movimiento en Unity. | [Repositorio](https://github.com/iasarmientoj/Character-Movement-Explorations) |
-| **Interaction-Mechanics-Explorations** | Pruebas de interacción: combate, disparos, empuje, y más. | [Repositorio](https://github.com/iasarmientoj/Interaction-Mechanics-Explorations) |
-| **Game-Systems-Explorations** | Integración de publicidad móvil, guardado de partidas, cinemáticas y más. | [Repositorio](https://github.com/iasarmientoj/Game-Systems-Explorations) |
-| **Advanced-Technologies-Explorations** | Realidad aumentada, simulaciones físicas, y otras tecnologías avanzadas. | [Repositorio](https://github.com/iasarmientoj/Advanced-Technologies-Explorations) |
+| **Generación Procedural de Terreno con Caminos en Chunks** | Generación procedural para crear terrenos representados en chunks interconectados mediante caminos. | [Repositorio](https://github.com/iasarmientoj/Prueba-Tecnica-Unity-Developer) |
+| **Curso-Nivel1-Plataforma-2.5D** | Curso práctico enfocado en el desarrollo de un videojuego 2.5D de plataformas en Unity. | [Repositorio](https://github.com/iasarmientoj/Curso-Nivel1-Plataforma-2.5D) |
+
 
 ---
 
