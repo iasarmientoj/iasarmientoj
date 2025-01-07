@@ -1,7 +1,5 @@
 # ¡Hola, soy Iván! :colombia:
 
-<img align='right' src="assets/forest.gif" width="240">
-
 [iasarmientoj.github.io](https://iasarmientoj.github.io/)
 
 Soy un **Ingeniero Mecatrónico** apasionado por la **Inteligencia de Negocios (BI)**, el **análisis de datos** y el desarrollo de soluciones tecnológicas innovadoras. Con más de seis años de experiencia, me dedico a transformar datos en insights accionables mediante herramientas de vanguardia como **Python**, **Power BI** y **AWS**.
