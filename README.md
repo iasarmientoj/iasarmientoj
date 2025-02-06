@@ -8,19 +8,12 @@ Soy un **Ingeniero Mecatrónico** apasionado por el desarrollo de videojuegos y 
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=iasarmientoj&color=brightgreen)
 
----
-
-### Sobre mí 📊  
+### Sobre mí 🕹️  
 - **Desarrollador de videojuegos en Unity:** Estoy constantemente explorando nuevas mecánicas, interacción y sistemas avanzados para videojuegos.  
 - **Apasionado por la realidad virtual y aumentada:** He desarrollado aplicaciones inmersivas publicadas en PlayStore y AppStore.  
 - **Docente y mentor:** Disfruto compartir conocimiento sobre programación y desarrollo de videojuegos.  
 - **Autodidacta y creativo:** Siempre buscando nuevas formas de integrar tecnología y arte.  
 - **Foco en IA:** Implemento inteligencia artificial para optimizar procesos y mejorar experiencias de usuario.
-- **Especialista en análisis de datos y visualización:** Creo informes interactivos en herramientas como Looker Studio y Power BI para facilitar la toma de decisiones.  
-- **Automatizador de procesos:** Desarrollé soluciones en Python y VBA, reduciendo significativamente tiempos operativos.  
-- **Apasionado por la IA:** Integro Machine Learning y otras tecnologías avanzadas para optimizar procesos.  
-- **Líder técnico:** He gestionado equipos interdisciplinarios para crear soluciones multimedia.  
-- **Docente y mentor:** Disfruto compartir conocimiento sobre programación, análisis de datos y desarrollo de soluciones.  
 
 ---
 
@@ -36,7 +29,7 @@ Aquí algunos repositorios interesantes que puedes explorar en mi perfil:
 
 ---
 
-## Mis tecnologías y herramientas 🚀  
+## Mis tecnologias 🚀  
 
 <table>
 <tr>
@@ -57,24 +50,6 @@ Aquí algunos repositorios interesantes que puedes explorar en mi perfil:
     <td align="center"><img src="assets/photoshop-original.svg" width="50"></td>
     <td align="center"><img src="assets/adobe-premiere.svg" width="50"></td>
 </tr>
-<tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="100"></td>
-</tr>
-<tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="100"></td>
-</tr>
-<tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" width="100"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg" width="100"></td>
-    <td align="center"><img src="assets/photoshop-original.svg" width="50"></td>
-</tr>
 </table>
 
 ---
@@ -82,3 +57,4 @@ Aquí algunos repositorios interesantes que puedes explorar en mi perfil:
 ## Estadísticas  
 
 [![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=iasarmientoj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
